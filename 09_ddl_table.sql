@@ -70,4 +70,4 @@ TRUNCATE TABLE users;
 -- ----------------------------
 -- 테이블 삭제
 -- ----------------------------
-mydbmydbDROP TABLE posts, users;
+DROP TABLE posts, users;
